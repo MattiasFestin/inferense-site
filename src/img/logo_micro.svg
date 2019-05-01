@@ -9,13 +9,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="b411f001-b16f-4358-a5a6-150c98662c8c"
    data-name="Layer 1"
-   width="987.62"
-   height="787.4"
-   viewBox="0 0 987.62 787.4"
+   width="200"
+   height="650"
+   viewBox="0 0 200 649.99999"
    version="1.1"
-   sodipodi:docname="logo.svg"
+   sodipodi:docname="logo_micro.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   inkscape:export-filename="C:\Users\mattias\Downloads\logo2.png"
+   inkscape:export-filename="C:\Users\mattias\Downloads\logo_micro.png"
    inkscape:export-xdpi="238.62"
    inkscape:export-ydpi="238.62">
   <metadata
@@ -44,7 +44,7 @@
      id="namedview178"
      showgrid="false"
      inkscape:zoom="0.90509668"
-     inkscape:cx="450.22887"
+     inkscape:cx="492.21334"
      inkscape:cy="449.17163"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -54,10 +54,10 @@
      id="defs9">
     <linearGradient
        id="74856d48-f61b-42c8-be79-e45253bc3d47"
-       x1="903.3"
-       y1="782.16"
-       x2="903.3"
-       y2="259.8"
+       x1="903.29999"
+       y1="782.15997"
+       x2="903.29999"
+       y2="259.79999"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0"
@@ -79,108 +79,93 @@
   <title
      id="title11">science</title>
   <ellipse
-     cx="126.1104"
-     cy="765.33972"
+     cx="98.725952"
+     cy="633.46399"
      rx="78.75"
      ry="4.8600001"
      id="ellipse29"
      style="opacity:0.1;fill:#6c63ff" />
   <path
-     d="M 210.93039,265.38971 H 43.400389 v 49.69 H 68.93039 v 387.66 a 58.25,58.25 0 1 0 116.49,0 v -387.66 h 25.51 z"
+     d="M 183.54593,133.51394 H 16.015932 v 49.69001 h 25.53 v 387.66 a 58.25,58.25 0 1 0 116.489998,0 v -387.66 h 25.51 z"
      id="path59"
      inkscape:connector-curvature="0"
      style="opacity:0.9;fill:#96b7fe" />
   <path
-     d="m 107.74039,402.90971 c 0,0 41.46,-14.81 53,-4.28 0,0 -16.79,24.68 -32.25,23.69 -15.46,-0.99 -20.75,-19.41 -20.75,-19.41 z"
+     d="m 80.355932,271.03395 c 0,0 41.459998,-14.81 52.999998,-4.28 0,0 -16.79,24.68 -32.25,23.69 -15.459998,-0.99 -20.749998,-19.41 -20.749998,-19.41 z"
      id="path61"
      inkscape:connector-curvature="0"
      style="fill:#6c63ff" />
   <path
-     d="m 107.74039,402.90971 c 0,0 41.46,-14.81 53,-4.28 0,0 -16.79,24.68 -32.25,23.69 -15.46,-0.99 -20.75,-19.41 -20.75,-19.41 z"
+     d="m 80.355932,271.03395 c 0,0 41.459998,-14.81 52.999998,-4.28 0,0 -16.79,24.68 -32.25,23.69 -15.459998,-0.99 -20.749998,-19.41 -20.749998,-19.41 z"
      id="path63"
      inkscape:connector-curvature="0"
      style="opacity:0.1" />
   <path
-     d="m 160.72039,398.66971 v 281.36 a 35.54,35.54 0 0 1 -35.54,35.54 v 0 a 35.54,35.54 0 0 1 -35.54,-35.54 v -281.36 c 0,0 17.11,-4.61 33.23,5.27 16.12,9.88 37.85,-5.27 37.85,-5.27 z"
+     d="m 133.33593,266.79395 v 281.36 a 35.54,35.54 0 0 1 -35.54,35.54 v 0 a 35.54,35.54 0 0 1 -35.539998,-35.54 v -281.36 c 0,0 17.11,-4.61 33.23,5.27 16.119998,9.88 37.849998,-5.27 37.849998,-5.27 z"
      id="path65"
      inkscape:connector-curvature="0"
      style="fill:#6c63ff" />
   <rect
-     x="68.910393"
-     y="314.76971"
+     x="41.525944"
+     y="182.89395"
      width="116.49"
      height="2.29"
      id="rect67"
      style="opacity:0.1" />
   <path
-     d="m 125.18039,698.45971 v 0 a 35.54,35.54 0 0 1 -35.54,-35.55 v 17.77 a 35.54,35.54 0 0 0 35.54,35.54 v 0 a 35.54,35.54 0 0 0 35.54,-35.54 v -17.77 a 35.54,35.54 0 0 1 -35.54,35.55 z"
+     d="m 97.79593,566.58395 v 0 a 35.54,35.54 0 0 1 -35.539998,-35.55 v 17.77 a 35.54,35.54 0 0 0 35.539998,35.54 v 0 a 35.54,35.54 0 0 0 35.54,-35.54 v -17.77 a 35.54,35.54 0 0 1 -35.54,35.55 z"
      id="path69"
      inkscape:connector-curvature="0"
      style="opacity:0.1" />
   <circle
-     cx="125.1904"
-     cy="363.79971"
+     cx="97.805939"
+     cy="231.92395"
      r="7.2399998"
      id="circle71"
      style="opacity:0.3;fill:#6c63ff" />
   <circle
-     cx="148.88039"
-     cy="338.12973"
+     cx="121.49591"
+     cy="206.25397"
      r="4.6100001"
      id="circle73"
      style="opacity:0.3;fill:#6c63ff" />
   <circle
-     cx="116.63039"
-     cy="328.91971"
+     cx="89.245911"
+     cy="197.04395"
      r="4.6100001"
      id="circle75"
      style="opacity:0.3;fill:#6c63ff" />
   <path
-     d="m 77.93039,456.14971 c -1.1,8.74 -0.88,19.68 6.93,23.76 -6.56,-3.42 20.3,-42.19 16.49,-50.12 -8.17,-16.88 -22.42,18.25 -23.42,26.36 z"
+     d="m 50.545932,324.27395 c -1.1,8.74 -0.88,19.68 6.93,23.76 -6.56,-3.42 20.3,-42.19 16.49,-50.12 -8.17,-16.88 -22.42,18.25 -23.42,26.36 z"
      id="path77"
      inkscape:connector-curvature="0"
      style="opacity:0.2;fill:#ffffff" />
   <circle
-     cx="140.21039"
-     cy="216.7097"
+     cx="112.82593"
+     cy="84.833946"
      r="17.59"
      id="circle79"
      style="opacity:0.3;fill:#6c63ff" />
   <circle
-     cx="87.440399"
-     cy="186.5497"
+     cx="60.055939"
+     cy="54.673943"
      r="13.08"
      id="circle81"
      style="opacity:0.3;fill:#6c63ff" />
   <circle
-     cx="125.13039"
-     cy="151.36971"
+     cx="97.745911"
+     cy="19.49395"
      r="6.8000002"
      id="circle83"
      style="opacity:0.3;fill:#6c63ff" />
   <path
-     d="M 669.12039,379.81971 Z"
+     d="M 641.73594,247.94395 Z"
      id="path147"
      inkscape:connector-curvature="0"
      style="fill:#ffb0b1" />
   <path
-     d="m 668.52039,380.43971 c 0.1,-0.09 0.19,-0.19 0.28,-0.28 -0.09,0.09 -0.18,0.19 -0.28,0.28 z"
+     d="m 641.13594,248.56395 c 0.1,-0.09 0.19,-0.19 0.28,-0.28 -0.09,0.09 -0.18,0.19 -0.28,0.28 z"
      id="path149"
      inkscape:connector-curvature="0"
      style="fill:#ffb0b1" />
-  <flowRoot
-     xml:space="preserve"
-     id="flowRoot855"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-     transform="matrix(5.5606773,0,0,5.5606773,-3508.1994,-1190.4904)"><flowRegion
-       id="flowRegion857"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
-         id="rect859"
-         width="881.67371"
-         height="220.97086"
-         x="665.12231"
-         y="314.52237"
-         ry="0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-       id="flowPara861"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">nferense</flowPara></flowRoot></svg>
+</svg>
