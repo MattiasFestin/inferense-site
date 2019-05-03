@@ -9,39 +9,27 @@ mainpitch:
   description: >
     You can process all your data sources. Then you select the metrics you want to maximize or minimize. We will process them and find correlations and present the underlying processes that you can find and optimize, even in real-time!
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Inferense is an online application for collecting, automatically analyzing and reacting your data. You have lots of data. You probably don't have time creating or analyzing reports.
+  It can be hard to find what is valuable. Our tools will find statistically significant links in your data.
+  Then by creating flows or machine learning models, you create optimization tasks. Either by getting feedback via IM or executing a real action.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - svg:  /img/svg/undraw_setup_wizard_r6mr.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        We have an easy to setup guide that will help you get started. The first step needed is gathering all your data, so it can be processed. Sound complicated? Not with us.
+        Our support can help you if for some reason you can't connect your data.
+    - svg:  /img/svg/undraw_treasure_of9i.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+       It can be hard to find what is valuable.
+        Our tools will find statistically significant links in your data.
+        You can also set up a randomized controlled trial (split A/B testing) for evaluating changes in your organization.
+    - svg:  /img/svg/undraw_robotics_kep0.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Automation is great! 
+        Not only does it save time. But with good analytics, you are in controll. Get real-time feedback for performance, cost or other relevant metrics.
+    - svg:  /img/svg/undraw_server_status_5pbv.svg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        You have lots of data. You probably don't have time creating or analyzing reports. And the reports are probably don't reflect  the "what". What to change, what to increase/decrease. We find the "what" so you can do the "do".
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -57,11 +45,11 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/jon-tyson-520955-unsplash.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/jon-tyson-520955-unsplash.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/jon-tyson-520955-unsplash.jpg
 ---

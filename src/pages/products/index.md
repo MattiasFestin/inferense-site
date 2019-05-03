@@ -9,21 +9,20 @@ description: >-
   We are a strong believer that data-driven decision making is the right way, so for us not to use it would be a bit hypocritical.
 intro:
   blurbs:
-    - image: /img/undraw_setup_wizard_r6mr.png
-      svg:  /img/svg/undraw_setup_wizard_r6mr.svg
+    - svg:  /img/svg/undraw_setup_wizard_r6mr.svg
       text: >
         We have an easy to setup guide that will help you get started. The first step needed is gathering all your data, so it can be processed. Sound complicated? Not with us.
         Our support can help you if for some reason you can't connect your data.
-    - image: /img/undraw_treasure_of9i.png
+    - svg:  /img/svg/undraw_treasure_of9i.svg
       text: >
        It can be hard to find what is valuable.
         Our tools will find statistically significant links in your data.
         You can also set up a randomized controlled trial (split A/B testing) for evaluating changes in your organization.
-    - image: /img/undraw_robotics_kep0.png
+    - svg:  /img/svg/undraw_robotics_kep0.svg
       text: >
         Automation is great! 
-        Not only does it save time. But with good analytics, you can get real-time feedback for performance, cost or other relevant metrics.
-    - image: /img/undraw_server_status_5pbv.png
+        Not only does it save time. But with good analytics, you are in controll. Get real-time feedback for performance, cost or other relevant metrics.
+    - svg:  /img/svg/undraw_server_status_5pbv.svg
       text: >
         You have lots of data. You probably don't have time creating or analyzing reports. And the reports are probably don't reflect  the "what". What to change, what to increase/decrease. We find the "what" so you can do the "do".
   heading: What we offer
@@ -54,7 +53,7 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+full_image: /img/street.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
