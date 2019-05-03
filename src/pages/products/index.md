@@ -25,7 +25,7 @@ intro:
         Not only does it save time. But with good analytics, you can get real-time feedback for performance, cost or other relevant metrics.
     - image: /img/undraw_server_status_5pbv.png
       text: >
-        You have lots of data. You probably don't have time creating or analyzing reports. And the reports are probably don't reflect on the reality, the "what". What to change, what to increase/decrease. We find the "what" so you can do the "do".
+        You have lots of data. You probably don't have time creating or analyzing reports. And the reports are probably don't reflect  the "what". What to change, what to increase/decrease. We find the "what" so you can do the "do".
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their

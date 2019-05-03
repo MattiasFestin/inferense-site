@@ -11,12 +11,13 @@ const FeatureGrid = ({ gridItems }) => (
 					<div
 					style={{
 						width: '240px',
+						minHeight: '280px',
 						display: 'inline-block',
 					}}
 					>
 						{console.log('feature', item)}
 						{item.svg ? (<img src={item.svg} />) : 
-							(<PreviewCompatibleImage imageInfo={item} />)
+							(<PreviewCompatibleImage imageInfo={item} style={{minHeight: '205'}} />)
 						}
 					</div>
 				</div>
