@@ -16,7 +16,7 @@ const FeatureGrid = ({ gridItems }) => (
 					}}
 					>
 						{console.log('feature', item)}
-						{item.svg ? (<img src={`img/${item.svg.relativePath}`} />) : 
+						{item.svg ? (<img src={`img/${item.svg.relativePath}`} loading="lazy" />) : 
 							(<PreviewCompatibleImage imageInfo={item} style={{minHeight: '205'}} />)
 						}
 					</div>

@@ -66,19 +66,19 @@ export const ProductPageTemplate = ({
                     <div className="tile is-parent is-vertical">
                       <article className="tile is-child">
                         {/* <PreviewCompatibleImage imageInfo={main.image1} /> */}
-                        <img src="/img/svg/undraw_financial_data_es63.svg" />
+                        <img loading="lazy" src="/img/svg/undraw_financial_data_es63.svg" />
                       </article>
                     </div>
                     <div className="tile is-parent">
                       <article className="tile is-child">
                         {/* <PreviewCompatibleImage imageInfo={main.image2} /> */}
-                        <img src="/img/svg/undraw_prototyping_process_rswj.svg" />
+                        <img loading="lazy" src="/img/svg/undraw_prototyping_process_rswj.svg" />
                       </article>
                     </div>
                   </div>
                   <div className="tile is-parent">
                     <article className="tile is-child">
-                      <img src="/img/svg/undraw_setup_analytics_8qkl.svg" />
+                      <img loading="lazy" src="/img/svg/undraw_setup_analytics_8qkl.svg" />
                     </article>
                   </div>
                 </div>
