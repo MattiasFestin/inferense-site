@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="b411f001-b16f-4358-a5a6-150c98662c8c"
+   data-name="Layer 1"
+   width="200"
+   height="650"
+   viewBox="0 0 200 649.99999"
+   version="1.1"
+   sodipodi:docname="logo_micro.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="C:\Users\mattias\Downloads\logo_micro.png"
+   inkscape:export-xdpi="238.62"
+   inkscape:export-ydpi="238.62">
+  <metadata
+     id="metadata180">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>science</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview178"
+     showgrid="false"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="492.21334"
+     inkscape:cy="449.17163"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="b411f001-b16f-4358-a5a6-150c98662c8c" />
+  <defs
+     id="defs9">
+    <linearGradient
+       id="74856d48-f61b-42c8-be79-e45253bc3d47"
+       x1="903.29999"
+       y1="782.15997"
+       x2="903.29999"
+       y2="259.79999"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="gray"
+         stop-opacity="0.25"
+         id="stop2" />
+      <stop
+         offset="0.54"
+         stop-color="gray"
+         stop-opacity="0.12"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="gray"
+         stop-opacity="0.1"
+         id="stop6" />
+    </linearGradient>
+  </defs>
+  <title
+     id="title11">science</title>
+  <ellipse
+     cx="98.725952"
+     cy="633.46399"
+     rx="78.75"
+     ry="4.8600001"
+     id="ellipse29"
+     style="opacity:0.1;fill:#6c63ff" />
+  <path
+     d="M 183.54593,133.51394 H 16.015932 v 49.69001 h 25.53 v 387.66 a 58.25,58.25 0 1 0 116.489998,0 v -387.66 h 25.51 z"
+     id="path59"
+     inkscape:connector-curvature="0"
+     style="opacity:0.9;fill:#96b7fe" />
+  <path
+     d="m 80.355932,271.03395 c 0,0 41.459998,-14.81 52.999998,-4.28 0,0 -16.79,24.68 -32.25,23.69 -15.459998,-0.99 -20.749998,-19.41 -20.749998,-19.41 z"
+     id="path61"
+     inkscape:connector-curvature="0"
+     style="fill:#6c63ff" />
+  <path
+     d="m 80.355932,271.03395 c 0,0 41.459998,-14.81 52.999998,-4.28 0,0 -16.79,24.68 -32.25,23.69 -15.459998,-0.99 -20.749998,-19.41 -20.749998,-19.41 z"
+     id="path63"
+     inkscape:connector-curvature="0"
+     style="opacity:0.1" />
+  <path
+     d="m 133.33593,266.79395 v 281.36 a 35.54,35.54 0 0 1 -35.54,35.54 v 0 a 35.54,35.54 0 0 1 -35.539998,-35.54 v -281.36 c 0,0 17.11,-4.61 33.23,5.27 16.119998,9.88 37.849998,-5.27 37.849998,-5.27 z"
+     id="path65"
+     inkscape:connector-curvature="0"
+     style="fill:#6c63ff" />
+  <rect
+     x="41.525944"
+     y="182.89395"
+     width="116.49"
+     height="2.29"
+     id="rect67"
+     style="opacity:0.1" />
+  <path
+     d="m 97.79593,566.58395 v 0 a 35.54,35.54 0 0 1 -35.539998,-35.55 v 17.77 a 35.54,35.54 0 0 0 35.539998,35.54 v 0 a 35.54,35.54 0 0 0 35.54,-35.54 v -17.77 a 35.54,35.54 0 0 1 -35.54,35.55 z"
+     id="path69"
+     inkscape:connector-curvature="0"
+     style="opacity:0.1" />
+  <circle
+     cx="97.805939"
+     cy="231.92395"
+     r="7.2399998"
+     id="circle71"
+     style="opacity:0.3;fill:#6c63ff" />
+  <circle
+     cx="121.49591"
+     cy="206.25397"
+     r="4.6100001"
+     id="circle73"
+     style="opacity:0.3;fill:#6c63ff" />
+  <circle
+     cx="89.245911"
+     cy="197.04395"
+     r="4.6100001"
+     id="circle75"
+     style="opacity:0.3;fill:#6c63ff" />
+  <path
+     d="m 50.545932,324.27395 c -1.1,8.74 -0.88,19.68 6.93,23.76 -6.56,-3.42 20.3,-42.19 16.49,-50.12 -8.17,-16.88 -22.42,18.25 -23.42,26.36 z"
+     id="path77"
+     inkscape:connector-curvature="0"
+     style="opacity:0.2;fill:#ffffff" />
+  <circle
+     cx="112.82593"
+     cy="84.833946"
+     r="17.59"
+     id="circle79"
+     style="opacity:0.3;fill:#6c63ff" />
+  <circle
+     cx="60.055939"
+     cy="54.673943"
+     r="13.08"
+     id="circle81"
+     style="opacity:0.3;fill:#6c63ff" />
+  <circle
+     cx="97.745911"
+     cy="19.49395"
+     r="6.8000002"
+     id="circle83"
+     style="opacity:0.3;fill:#6c63ff" />
+  <path
+     d="M 641.73594,247.94395 Z"
+     id="path147"
+     inkscape:connector-curvature="0"
+     style="fill:#ffb0b1" />
+  <path
+     d="m 641.13594,248.56395 c 0.1,-0.09 0.19,-0.19 0.28,-0.28 -0.09,0.09 -0.18,0.19 -0.28,0.28 z"
+     id="path149"
+     inkscape:connector-curvature="0"
+     style="fill:#ffb0b1" />
+</svg>

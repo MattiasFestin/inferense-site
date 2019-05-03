@@ -41,8 +41,8 @@ export default class Index extends React.Component {
             <div className="content">
               <h1>Contact</h1>
 				<p>Hi! Nice of you dropping by here.</p>
-				<p>We are working 100% to launch our app.</p>
-				<p>Subscribe to our newsletter for more updates when availiable.</p>
+				<p>We are working 100% for launching our app.</p>
+				<p>Subscribe to our newsletter for more updates when available.</p>
 				<div>
 				{/* Begin Mailchimp Signup Form */}
 					<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css" />
